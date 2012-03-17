@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<grafo nome='GrafoProgetto'>
+<nodi>
+<nodo id='0'  x='389' y='287'/>
+<nodo id='1'  x='255' y=' 58'/>
+<nodo id='2'  x='291' y='373'/>
+<nodo id='3'  x='187' y='109'/>
+<nodo id='4'  x='491' y='167'/>
+<nodo id='5'  x=' 97' y='175'/>
+<nodo id='6'  x='489' y='212'/>
+<nodo id='7'  x='391' y='114'/>
+<nodo id='8'  x='122' y=' 82'/>
+<nodo id='9'  x='399' y='135'/>
+<nodo id='10' x='317' y='233'/>
+<nodo id='11' x=' 80' y='322'/>
+<nodo id='12' x='395' y=' 43'/>
+<nodo id='13' x='388' y='286'/>
+<nodo id='14' x='329' y='419'/>
+<nodo id='15' x='197' y='222'/>
+<nodo id='16' x='157' y=' 36'/>
+<nodo id='17' x='521' y='413'/>
+<nodo id='18' x='381' y='395'/>
+<nodo id='19' x='137' y='221'/>
+</nodi>
+<archi>
+<arco id=' 0' end1=' 0' end2='13' type='Edge' w='  1'/>
+<arco id=' 1' end1=' 0' end2='10' type='Edge' w=' 90'/>
+<arco id=' 2' end1=' 0' end2='18' type='Edge' w='108'/>
+<arco id=' 3' end1=' 0' end2=' 6' type='Edge' w='125'/>
+<arco id=' 4' end1=' 0' end2=' 2' type='Edge' w='130'/>
+<arco id=' 5' end1=' 0' end2='14' type='Edge' w='145'/>
+<arco id=' 6' end1=' 0' end2='17' type='Edge' w='182'/>
+<arco id=' 7' end1=' 1' end2=' 3' type='Edge' w=' 85'/>
+<arco id=' 8' end1=' 1' end2='16' type='Edge' w='100'/>
+<arco id=' 9' end1=' 1' end2=' 8' type='Edge' w='135'/>
+<arco id='10' end1=' 1' end2='12' type='Edge' w='141'/>
+<arco id='11' end1=' 2' end2='14' type='Edge' w=' 60'/>
+<arco id='12' end1=' 2' end2='18' type='Edge' w=' 93'/>
+<arco id='13' end1=' 2' end2='13' type='Edge' w='130'/>
+<arco id='14' end1=' 2' end2=' 0' type='Edge' w='130'/>
+<arco id='15' end1=' 2' end2='11' type='Edge' w='217'/>
+<arco id='16' end1=' 3' end2=' 1' type='Edge' w=' 85'/>
+<arco id='17' end1=' 3' end2=' 8' type='Edge' w=' 70'/>
+<arco id='18' end1=' 3' end2='16' type='Edge' w=' 79'/>
+<arco id='19' end1=' 3' end2=' 5' type='Edge' w='112'/>
+<arco id='20' end1=' 3' end2='15' type='Edge' w='113'/>
+<arco id='21' end1=' 3' end2='19' type='Edge' w='123'/>
+<arco id='22' end1=' 4' end2=' 6' type='Edge' w=' 45'/>
+<arco id='23' end1=' 4' end2=' 9' type='Edge' w=' 97'/>
+<arco id='24' end1=' 4' end2=' 7' type='Edge' w='113'/>
+<arco id='25' end1=' 4' end2='12' type='Edge' w='157'/>
+<arco id='26' end1=' 5' end2=' 3' type='Edge' w='112'/>
+<arco id='27' end1=' 5' end2='19' type='Edge' w=' 61'/>
+<arco id='28' end1=' 5' end2=' 8' type='Edge' w=' 96'/>
+<arco id='29' end1=' 5' end2='15' type='Edge' w='110'/>
+<arco id='30' end1=' 5' end2='11' type='Edge' w='148'/>
+<arco id='31' end1=' 5' end2='16' type='Edge' w='151'/>
+<arco id='32' end1=' 6' end2=' 0' type='Edge' w='125'/>
+<arco id='33' end1=' 6' end2=' 4' type='Edge' w=' 45'/>
+<arco id='34' end1=' 6' end2=' 9' type='Edge' w='118'/>
+<arco id='35' end1=' 6' end2='13' type='Edge' w='125'/>
+<arco id='36' end1=' 6' end2=' 7' type='Edge' w='139'/>
+<arco id='37' end1=' 7' end2=' 4' type='Edge' w='113'/>
+<arco id='38' end1=' 7' end2=' 9' type='Edge' w=' 22'/>
+<arco id='39' end1=' 7' end2='12' type='Edge' w=' 71'/>
+<arco id='40' end1=' 7' end2=' 6' type='Edge' w='139'/>
+<arco id='41' end1=' 8' end2=' 1' type='Edge' w='135'/>
+<arco id='42' end1=' 8' end2=' 3' type='Edge' w=' 70'/>
+<arco id='43' end1=' 8' end2=' 5' type='Edge' w=' 96'/>
+<arco id='44' end1=' 8' end2='16' type='Edge' w=' 58'/>
+<arco id='45' end1=' 9' end2=' 4' type='Edge' w=' 97'/>
+<arco id='46' end1=' 9' end2=' 6' type='Edge' w='118'/>
+<arco id='47' end1=' 9' end2=' 7' type='Edge' w=' 22'/>
+<arco id='48' end1=' 9' end2='12' type='Edge' w=' 92'/>
+<arco id='49' end1=' 9' end2='10' type='Edge' w='128'/>
+<arco id='50' end1='10' end2=' 0' type='Edge' w=' 90'/>
+<arco id='51' end1='10' end2='13' type='Edge' w=' 89'/>
+<arco id='52' end1='10' end2='15' type='Edge' w='121'/>
+<arco id='53' end1='10' end2=' 9' type='Edge' w='128'/>
+<arco id='54' end1='11' end2='19' type='Edge' w='116'/>
+<arco id='55' end1='11' end2=' 5' type='Edge' w='148'/>
+<arco id='56' end1='11' end2='15' type='Edge' w='154'/>
+<arco id='57' end1='11' end2=' 2' type='Edge' w='217'/>
+<arco id='58' end1='12' end2=' 1' type='Edge' w='141'/>
+<arco id='59' end1='12' end2=' 4' type='Edge' w='157'/>
+<arco id='60' end1='12' end2=' 7' type='Edge' w=' 71'/>
+<arco id='61' end1='12' end2=' 9' type='Edge' w=' 92'/>
+<arco id='62' end1='13' end2=' 0' type='Edge' w='  1'/>
+<arco id='63' end1='13' end2=' 2' type='Edge' w='130'/>
+<arco id='64' end1='13' end2=' 6' type='Edge' w='125'/>
+<arco id='65' end1='13' end2='10' type='Edge' w=' 89'/>
+<arco id='66' end1='13' end2='18' type='Edge' w='109'/>
+<arco id='67' end1='13' end2='14' type='Edge' w='145'/>
+<arco id='68' end1='13' end2='17' type='Edge' w='184'/>
+<arco id='69' end1='14' end2=' 2' type='Edge' w=' 60'/>
+<arco id='70' end1='14' end2='18' type='Edge' w=' 57'/>
+<arco id='71' end1='14' end2=' 0' type='Edge' w='145'/>
+<arco id='72' end1='14' end2='13' type='Edge' w='145'/>
+<arco id='73' end1='14' end2='17' type='Edge' w='192'/>
+<arco id='74' end1='15' end2=' 5' type='Edge' w='110'/>
+<arco id='75' end1='15' end2='10' type='Edge' w='121'/>
+<arco id='76' end1='15' end2='11' type='Edge' w='154'/>
+<arco id='77' end1='15' end2='19' type='Edge' w=' 60'/>
+<arco id='78' end1='15' end2=' 3' type='Edge' w='113'/>
+<arco id='79' end1='16' end2=' 1' type='Edge' w='100'/>
+<arco id='80' end1='16' end2=' 3' type='Edge' w=' 79'/>
+<arco id='81' end1='16' end2=' 8' type='Edge' w=' 58'/>
+<arco id='82' end1='16' end2=' 5' type='Edge' w='151'/>
+<arco id='83' end1='17' end2='18' type='Edge' w='141'/>
+<arco id='84' end1='17' end2=' 0' type='Edge' w='182'/>
+<arco id='85' end1='17' end2='13' type='Edge' w='184'/>
+<arco id='86' end1='17' end2='14' type='Edge' w='192'/>
+<arco id='87' end1='18' end2=' 0' type='Edge' w='108'/>
+<arco id='88' end1='18' end2=' 2' type='Edge' w=' 93'/>
+<arco id='89' end1='18' end2='13' type='Edge' w='109'/>
+<arco id='90' end1='18' end2='14' type='Edge' w=' 57'/>
+<arco id='91' end1='18' end2='17' type='Edge' w='141'/>
+<arco id='92' end1='19' end2=' 5' type='Edge' w=' 61'/>
+<arco id='93' end1='19' end2='11' type='Edge' w='116'/>
+<arco id='94' end1='19' end2='15' type='Edge' w=' 60'/>
+<arco id='95' end1='19' end2=' 3' type='Edge' w='123'/>
+</archi>
+</grafo>

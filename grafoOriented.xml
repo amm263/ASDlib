@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<grafo nome='GrafoProgetto'>
+<nodi>
+<nodo id='0'  x='524' y='342'/>
+<nodo id='1'  x='638' y='264'/>
+<nodo id='2'  x='488' y='534'/>
+<nodo id='3'  x='238' y='426'/>
+<nodo id='4'  x='587' y='140'/>
+<nodo id='5'  x='769' y='432'/>
+<nodo id='6'  x='658' y='494'/>
+<nodo id='7'  x='416' y='377'/>
+<nodo id='8'  x='221' y='319'/>
+<nodo id='9'  x='521' y='186'/>
+<nodo id='10' x='680' y='169'/>
+<nodo id='11' x='375' y='305'/>
+<nodo id='12' x='187' y='118'/>
+<nodo id='13' x='400' y='500'/>
+<nodo id='14' x=' 41' y='508'/>
+<nodo id='15' x='135' y='252'/>
+<nodo id='16' x='125' y='556'/>
+<nodo id='17' x='748' y='453'/>
+<nodo id='18' x='492' y='344'/>
+<nodo id='19' x='413' y='470'/>
+</nodi>
+<archi>
+<arco id='0'  end1='0 ' end2='18' type='Edge' w='32 ' />
+<arco id='1'  end1='0 ' end2='7'  type='Arc'  w='114' />
+<arco id='2'  end1='0 ' end2='1'  type='Edge' w='138' />
+<arco id='3'  end1='1 ' end2='10' type='Edge' w='104' />
+<arco id='4'  end1='4 ' end2='1'  type='Arc'  w='134' />
+<arco id='5'  end1='2 ' end2='13' type='Arc'  w='94 ' />
+<arco id='6'  end1='2 ' end2='19' type='Edge' w='99 ' />
+<arco id='7'  end1='2 ' end2='7'  type='Edge' w='173' />
+<arco id='8'  end1='3 ' end2='8'  type='Arc'  w='108' />
+<arco id='9'  end1='16' end2='3'  type='Arc'  w='172' />
+<arco id='10' end1='13' end2='3'  type='Arc'  w='178' />
+<arco id='11' end1='9 ' end2='4'  type='Arc'  w='80 ' />
+<arco id='12' end1='10' end2='4'  type='Arc'  w='97 ' />
+<arco id='13' end1='5 ' end2='17' type='Arc'  w='30 ' />
+<arco id='14' end1='5 ' end2='6'  type='Edge' w='127' />
+<arco id='15' end1='5 ' end2='1'  type='Edge' w='213' />
+<arco id='16' end1='6 ' end2='17' type='Edge' w='99 ' />
+<arco id='17' end1='6 ' end2='2'  type='Edge' w='175' />
+<arco id='18' end1='18' end2='7'  type='Arc'  w='83 ' />
+<arco id='19' end1='7 ' end2='11' type='Arc'  w='83 ' />
+<arco id='20' end1='7 ' end2='19' type='Edge' w='93 ' />
+<arco id='21' end1='8 ' end2='15' type='Arc'  w='109' />
+<arco id='22' end1='8 ' end2='11' type='Edge' w='155' />
+<arco id='23' end1='9 ' end2='1'  type='Edge' w='141' />
+<arco id='24' end1='9 ' end2='0'  type='Arc'  w='156' />
+<arco id='25' end1='10' end2='9'  type='Edge' w='160' />
+<arco id='26' end1='18' end2='11' type='Arc'  w='166' />
+<arco id='27' end1='11' end2='0'  type='Edge' w='154' />
+<arco id='28' end1='15' end2='12' type='Arc'  w='503' />
+<arco id='29' end1='12' end2='8'  type='Edge' w='204' />
+<arco id='30' end1='12' end2='11' type='Edge' w='474' />
+<arco id='31' end1='13' end2='19' type='Edge' w='335' />
+<arco id='32' end1='13' end2='7'  type='Edge' w='124' />
+<arco id='33' end1='16' end2='14' type='Arc'  w='590' />
+<arco id='34' end1='14' end2='3'  type='Edge' w='213' />
+<arco id='35' end1='14' end2='8'  type='Edge' w='261' />
+<arco id='36' end1='15' end2='3'  type='Edge' w='202' />
+<arco id='37' end1='16' end2='8'  type='Edge' w='256' />
+<arco id='38' end1='17' end2='1'  type='Edge' w='219' />
+</archi>
+</grafo>
